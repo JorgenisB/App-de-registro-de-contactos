@@ -1,2 +1,2 @@
-Esta es la tarea #5 de Jorgenis Belen y esta es la captura:
+Esta app es para registrar personas(Contactos), hace uso de API, para ingresarlos y almacenarlos en dicha API.
 ![Mi atura de pantalla](micaptura.jpg)
